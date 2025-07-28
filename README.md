@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <!-- GitHub Stats Card -->
 [![ClickMyGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClickMyGit&show_icons=true&theme=tokyonight)](https://github.com/ClickMyGit/github-readme-stats)
 <!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clickme)](https://solved.ac/clickme)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=clickme)](https://solved.ac/clickme)
