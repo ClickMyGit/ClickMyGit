@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 <!-- 사용한 언어 순위 카드 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClickMyGit&layout=compact&theme=algolia)
 <!-- GitHub Stats Card -->
 [![ClickMyGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClickMyGit&show_icons=true&theme=tokyonight)](https://github.com/ClickMyGit/github-readme-stats)
