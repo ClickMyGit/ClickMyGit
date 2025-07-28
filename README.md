@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClickMyGit&layout=compact)
 <!-- 사용한 언어 순위 카드 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClickMyGit&theme=dark&show_icons=true)
